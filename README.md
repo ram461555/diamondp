@@ -1,0 +1,2 @@
+# diamondp
+Diamond pattern
